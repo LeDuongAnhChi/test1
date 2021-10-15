@@ -1,8 +1,8 @@
 # conga
 ## conheo
-**indam**
-*innghieng*
-~~gachngang~~
+**indam** (&lt;b&gt;)
+*innghieng* (&lt;b&gt;)
+~~gachngang~~ (&lt;b&gt;)
 1. con ga
 2. con heo
 3. con cho
