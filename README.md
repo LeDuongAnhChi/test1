@@ -3,6 +3,7 @@
 **indam**. 
 *innghieng*. 
 ~~gachngang~~. 
+http://google.com - automatic
 1. con ga
 2. con heo
 3. con cho
