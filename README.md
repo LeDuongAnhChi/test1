@@ -1,8 +1,8 @@
 # conga
 ## conheo
 **indam**. 
-*innghieng*. `<addr>`
-~~gachngang~~. 
+*innghieng*__
+~~gachngang~~. __
 http://google.com - automatic
 > con ga be be 
 > no dau canh tre
